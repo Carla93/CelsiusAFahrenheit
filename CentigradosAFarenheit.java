@@ -14,7 +14,7 @@ public class CentigradosAFarenheit {
 
 		f = 32 + (9 * c / 5);
 		
-		System.out.println("La cantidad equivale a " + f + "F");
+		System.out.println("La cantidad equivale a: " + f + "F");
 		
 		sc.close();
 	}
